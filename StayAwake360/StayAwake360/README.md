@@ -120,6 +120,4 @@ Have feedback or questions? Reach out on GitHub or connect on [LinkedIn](#).
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if you'd like a matching project logo or sample screenshots added to the README.
