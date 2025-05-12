@@ -42,7 +42,7 @@ By continuously analyzing the Eye Aspect Ratio (EAR), the system can raise alert
 
 ## 🛠️ Technologies Used
 
-* **Python** 🐍
+* *ython* 🐍
 * **OpenCV** 📸 – Real-time video processing
 * **Dlib** 🧠 – Facial landmark detection
 * **NumPy** – Numerical operations
