@@ -1,7 +1,3 @@
-Sure! Here's a rewritten, human-like, professional GitHub README for your project, now branded as **StayAwake360**. It's structured, clear, and suitable for a public project repository:
-
----
-
 # 🚗 StayAwake360 – Driver Drowsiness Detection System
 
 StayAwake360 is an AI-powered solution that helps **detect driver drowsiness in real-time** using computer vision techniques. Built with Python, OpenCV, and Dlib, this system monitors facial landmarks to detect early signs of fatigue, ensuring safer roads for everyone.
@@ -124,6 +120,4 @@ Have feedback or questions? Reach out on GitHub or connect on [LinkedIn](#).
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if you'd like a matching project logo or sample screenshots added to the README.
